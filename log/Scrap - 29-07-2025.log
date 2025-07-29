@@ -1,0 +1,801 @@
+2025-07-29 20:03:42,410 - DEBUG - Starting new HTTPS connection (1): www.linkedin.com:443
+2025-07-29 20:03:43,180 - DEBUG - https://www.linkedin.com:443 "GET /jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=%22%22&location=Brasil&f_WT=2&geoId=106057199&position=1&start=0 HTTP/1.1" 200 3093
+2025-07-29 20:03:43,210 - INFO - <!DOCTYPE html>
+
+<li>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4211048542" data-impression-id="jobs-search-result-0" data-reference-id="Z1oabvkyB043ZkCFjAvZRA==" data-row="1" data-tracking-id="u+u3jJ+I0eTDjGPeYSL1ZQ==">
+<a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://br.linkedin.com/jobs/view/agente-de-neg%C3%B3cios-ita%C3%BA-empresas-vagas-em-todo-o-brasil-at-ita%C3%BA-unibanco-4211048542?position=1&amp;pageNum=0&amp;refId=Z1oabvkyB043ZkCFjAvZRA%3D%3D&amp;trackingId=u%2Bu3jJ%2BI0eTDjGPeYSL1ZQ%3D%3D">
+<span class="sr-only">
+              
+        
+        Agente de Neg�cios Ita� Empresas (vagas em todo o Brasil)
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4D0BAQGmyPiGIU-69w/company-logo_100_100/B4DZZFc2k4GgAQ-/0/1744921914031/itau_logo?e=2147483647&amp;v=beta&amp;t=eKwYgoF2bNP9qNQLZk2XwfVh9IuOpEI8iOdMvSrrzvE" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Agente de Neg�cios Ita� Empresas (vagas em todo o Brasil)
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://br.linkedin.com/company/itau?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Ita� Unibanco
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Brazil
+          </span>
+<div class="job-posting-benefits text-sm">
+<icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg"></icon>
+<span class="job-posting-benefits__text">
+          Actively Hiring
+<!-- --> </span>
+</div>
+<time class="job-search-card__listdate" datetime="2025-07-10">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 weeks ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>
+<li>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4255302672" data-impression-id="jobs-search-result-1" data-reference-id="Z1oabvkyB043ZkCFjAvZRA==" data-row="2" data-tracking-id="mYdrrxcWTmL63UzQY7uHuw==">
+<a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://br.linkedin.com/jobs/view/atendente-receptivo-clientes-b2b-i-curitiba-pr-home-office-at-vivo-telef%C3%B4nica-brasil-4255302672?position=2&amp;pageNum=0&amp;refId=Z1oabvkyB043ZkCFjAvZRA%3D%3D&amp;trackingId=mYdrrxcWTmL63UzQY7uHuw%3D%3D">
+<span class="sr-only">
+              
+        
+        Atendente Receptivo | Clientes B2B I Curitiba - PR | Home Office
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4D0BAQEGU76fz8Vanw/company-logo_100_100/company-logo_100_100/0/1720530560992/vivo_telefonicabr_logo?e=2147483647&amp;v=beta&amp;t=Zj3VGfDjzBY6vc7uThkzIY26itFLBiQe0oZDRKuhJeM" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Atendente Receptivo | Clientes B2B I Curitiba - PR | Home Office
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://br.linkedin.com/company/vivo-telefonicabr?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Vivo (Telef�nica Brasil)
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Brazil
+          </span>
+<div class="job-posting-benefits text-sm">
+<icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg"></icon>
+<span class="job-posting-benefits__text">
+          Actively Hiring
+<!-- --> </span>
+</div>
+<time class="job-search-card__listdate" datetime="2025-07-17">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 week ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>
+<li>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4075456580" data-impression-id="jobs-search-result-2" data-reference-id="Z1oabvkyB043ZkCFjAvZRA==" data-row="3" data-tracking-id="eeVi6F/WMTYZz/qHLRy2TA==">
+<a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://br.linkedin.com/jobs/view/executivo-de-meios-de-pagamento-vagas-para-todo-o-brasil-at-ita%C3%BA-unibanco-4075456580?position=3&amp;pageNum=0&amp;refId=Z1oabvkyB043ZkCFjAvZRA%3D%3D&amp;trackingId=eeVi6F%2FWMTYZz%2FqHLRy2TA%3D%3D">
+<span class="sr-only">
+              
+        
+        Executivo de Meios de Pagamento - Vagas para todo o Brasil
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4D0BAQGmyPiGIU-69w/company-logo_100_100/B4DZZFc2k4GgAQ-/0/1744921914031/itau_logo?e=2147483647&amp;v=beta&amp;t=eKwYgoF2bNP9qNQLZk2XwfVh9IuOpEI8iOdMvSrrzvE" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Executivo de Meios de Pagamento - Vagas para todo o Brasil
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://br.linkedin.com/company/itau?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Ita� Unibanco
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Brazil
+          </span>
+<div class="job-posting-benefits text-sm">
+<icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg"></icon>
+<span class="job-posting-benefits__text">
+          Actively Hiring
+<!-- --> </span>
+</div>
+<time class="job-search-card__listdate" datetime="2025-07-27">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 days ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>
+<li>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4269545935" data-impression-id="jobs-search-result-3" data-reference-id="Z1oabvkyB043ZkCFjAvZRA==" data-row="4" data-tracking-id="basxEG8OVNi/PWjMwC2SIQ==">
+<a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://br.linkedin.com/jobs/view/analista-de-neg%C3%B3cios-j%C3%BAnior-at-ifood-4269545935?position=4&amp;pageNum=0&amp;refId=Z1oabvkyB043ZkCFjAvZRA%3D%3D&amp;trackingId=basxEG8OVNi%2FPWjMwC2SIQ%3D%3D">
+<span class="sr-only">
+              
+        
+        Analista de Neg�cios J�nior
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C510BAQFupNOyDYF1sg/company-logo_100_100/company-logo_100_100/0/1631315877254?e=2147483647&amp;v=beta&amp;t=G4OfjpS-EiljNhBJd1RAHw6kAUq33aWM47NNGUCF_ww" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Analista de Neg�cios J�nior
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://br.linkedin.com/company/ifood-?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            iFood
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Brazil
+          </span>
+<div class="job-posting-benefits text-sm">
+<icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg"></icon>
+<span class="job-posting-benefits__text">
+          Actively Hiring
+<!-- --> </span>
+</div>
+<time class="job-search-card__listdate" datetime="2025-07-18">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 week ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>
+<li>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4266397301" data-impression-id="jobs-search-result-4" data-reference-id="Z1oabvkyB043ZkCFjAvZRA==" data-row="5" data-tracking-id="MWFVgkDgLJy1C0KK2RFccw==">
+<a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://br.linkedin.com/jobs/view/especialista-ll-%E2%80%93-cultura-organizacional-e-s%C3%ADmbolos-culturais-at-grupo-botic%C3%A1rio-4266397301?position=5&amp;pageNum=0&amp;refId=Z1oabvkyB043ZkCFjAvZRA%3D%3D&amp;trackingId=MWFVgkDgLJy1C0KK2RFccw%3D%3D">
+<span class="sr-only">
+              
+        
+        Especialista ll � Cultura Organizacional e S�mbolos Culturais
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4D0BAQE2uTXvISMMwA/company-logo_100_100/company-logo_100_100/0/1630548701849/grupo_boticario_logo?e=2147483647&amp;v=beta&amp;t=3UrcVUn9LsCV31jeoDUffP9Vim1jw6aXZgNxTxoDMG0" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Especialista ll � Cultura Organizacional e S�mbolos Culturais
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://br.linkedin.com/company/grupo-boticario?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Grupo Botic�rio
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Brazil
+          </span>
+<div class="job-posting-benefits text-sm">
+<icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg"></icon>
+<span class="job-posting-benefits__text">
+          Actively Hiring
+<!-- --> </span>
+</div>
+<time class="job-search-card__listdate" datetime="2025-07-14">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 weeks ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>
+<li>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4268697001" data-impression-id="jobs-search-result-5" data-reference-id="Z1oabvkyB043ZkCFjAvZRA==" data-row="6" data-tracking-id="d05aCAGa4YkAyYVqHGjz3Q==">
+<a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://br.linkedin.com/jobs/view/assistente-de-neg%C3%B3cios-at-ifood-4268697001?position=6&amp;pageNum=0&amp;refId=Z1oabvkyB043ZkCFjAvZRA%3D%3D&amp;trackingId=d05aCAGa4YkAyYVqHGjz3Q%3D%3D">
+<span class="sr-only">
+              
+        
+        Assistente de Neg�cios
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C510BAQFupNOyDYF1sg/company-logo_100_100/company-logo_100_100/0/1631315877254?e=2147483647&amp;v=beta&amp;t=G4OfjpS-EiljNhBJd1RAHw6kAUq33aWM47NNGUCF_ww" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Assistente de Neg�cios
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://br.linkedin.com/company/ifood-?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            iFood
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Brazil
+          </span>
+<div class="job-posting-benefits text-sm">
+<icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg"></icon>
+<span class="job-posting-benefits__text">
+          Actively Hiring
+<!-- --> </span>
+</div>
+<time class="job-search-card__listdate" datetime="2025-07-17">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 week ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>
+<li>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4270287659" data-impression-id="jobs-search-result-6" data-reference-id="Z1oabvkyB043ZkCFjAvZRA==" data-row="7" data-tracking-id="ZJsXZH1od5DTAhBLqUF2kg==">
+<a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://br.linkedin.com/jobs/view/banco-de-talentos-priner-construindo-futuros-juntos-at-priner-4270287659?position=7&amp;pageNum=0&amp;refId=Z1oabvkyB043ZkCFjAvZRA%3D%3D&amp;trackingId=ZJsXZH1od5DTAhBLqUF2kg%3D%3D">
+<span class="sr-only">
+              
+        
+        BANCO DE TALENTOS PRINER | CONSTRUINDO FUTUROS JUNTOS
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C4E0BAQGM78qiQnDCXA/company-logo_100_100/company-logo_100_100/0/1649946356365/priner_servios_industriais_logo?e=2147483647&amp;v=beta&amp;t=icK_th-iI0Q0c_fz5o0a-BXEdHxqG49JKYFnYqCME50" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        BANCO DE TALENTOS PRINER | CONSTRUINDO FUTUROS JUNTOS
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://br.linkedin.com/company/priner?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Priner 
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Brazil
+          </span>
+<!-- -->
+<time class="job-search-card__listdate" datetime="2025-06-26">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 month ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>
+<li>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4269242386" data-impression-id="jobs-search-result-7" data-reference-id="Z1oabvkyB043ZkCFjAvZRA==" data-row="8" data-tracking-id="ZIB/EXfrr8zUAlM70kAOKA==">
+<a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://br.linkedin.com/jobs/view/executive-assistant-at-mindbody-4269242386?position=8&amp;pageNum=0&amp;refId=Z1oabvkyB043ZkCFjAvZRA%3D%3D&amp;trackingId=ZIB%2FEXfrr8zUAlM70kAOKA%3D%3D">
+<span class="sr-only">
+              
+        
+        Executive Assistant
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4E0BAQFH1JcVlFk-fA/company-logo_100_100/B4EZXSeaMXGwAQ-/0/1742992942213/mindbody_logo?e=2147483647&amp;v=beta&amp;t=q_aMKAp1ucYHqELb8x7qf1gLAOdOxkvIw4f2ospJukU" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Executive Assistant
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/mindbody?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Mindbody
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            S�o Paulo, Brazil
+          </span>
+<div class="job-posting-benefits text-sm">
+<icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg"></icon>
+<span class="job-posting-benefits__text">
+          Actively Hiring
+<!-- --> </span>
+</div>
+<time class="job-search-card__listdate" datetime="2025-07-23">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      6 days ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>
+<li>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4250056722" data-impression-id="jobs-search-result-8" data-reference-id="Z1oabvkyB043ZkCFjAvZRA==" data-row="9" data-tracking-id="HFgLOTT9rauwPjGF6Q9a0Q==">
+<a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://br.linkedin.com/jobs/view/analista-comercial-atendimento-ve%C3%ADculos-%F0%9F%9A%80%F0%9F%A7%A1-at-ita%C3%BA-unibanco-4250056722?position=9&amp;pageNum=0&amp;refId=Z1oabvkyB043ZkCFjAvZRA%3D%3D&amp;trackingId=HFgLOTT9rauwPjGF6Q9a0Q%3D%3D">
+<span class="sr-only">
+              
+        
+        Analista Comercial - Atendimento Ve�culos \U0001f680\U0001f9e1
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/D4D0BAQGmyPiGIU-69w/company-logo_100_100/B4DZZFc2k4GgAQ-/0/1744921914031/itau_logo?e=2147483647&amp;v=beta&amp;t=eKwYgoF2bNP9qNQLZk2XwfVh9IuOpEI8iOdMvSrrzvE" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Analista Comercial - Atendimento Ve�culos \U0001f680\U0001f9e1
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://br.linkedin.com/company/itau?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Ita� Unibanco
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Brazil
+          </span>
+<div class="job-posting-benefits text-sm">
+<icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg"></icon>
+<span class="job-posting-benefits__text">
+          Actively Hiring
+<!-- --> </span>
+</div>
+<time class="job-search-card__listdate" datetime="2025-07-25">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      4 days ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>
+<li>
+<div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-column="1" data-entity-urn="urn:li:jobPosting:4266792036" data-impression-id="jobs-search-result-9" data-reference-id="Z1oabvkyB043ZkCFjAvZRA==" data-row="10" data-tracking-id="7bChRtgFentlv0IrP9flLA==">
+<a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2] outline-offset-[4px]" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-will-navigate="" href="https://br.linkedin.com/jobs/view/assistente-de-experi%C3%AAncia-s%C3%AAnior-at-ifood-4266792036?position=10&amp;pageNum=0&amp;refId=Z1oabvkyB043ZkCFjAvZRA%3D%3D&amp;trackingId=7bChRtgFentlv0IrP9flLA%3D%3D">
+<span class="sr-only">
+              
+        
+        Assistente de Experi�ncia S�nior
+      
+      
+          </span>
+</a>
+<div class="search-entity-media">
+<img alt="" class="artdeco-entity-image artdeco-entity-image--square-4" data-delayed-url="https://media.licdn.com/dms/image/v2/C510BAQFupNOyDYF1sg/company-logo_100_100/company-logo_100_100/0/1631315877254?e=2147483647&amp;v=beta&amp;t=G4OfjpS-EiljNhBJd1RAHw6kAUq33aWM47NNGUCF_ww" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/6puxblwmhnodu6fjircz4dn4h"/>
+</div>
+<div class="base-search-card__info">
+<h3 class="base-search-card__title">
+            
+        Assistente de Experi�ncia S�nior
+      
+          </h3>
+<h4 class="base-search-card__subtitle">
+<a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://br.linkedin.com/company/ifood-?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            iFood
+          </a>
+</h4>
+<!-- -->
+<div class="base-search-card__metadata">
+<span class="job-search-card__location">
+            Brazil
+          </span>
+<div class="job-posting-benefits text-sm">
+<icon class="job-posting-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/3p1v0uhy7uq0cm5zdvzp4eo18" data-svg-class-name="job-posting-benefits__icon-svg"></icon>
+<span class="job-posting-benefits__text">
+          Actively Hiring
+<!-- --> </span>
+</div>
+<time class="job-search-card__listdate" datetime="2025-07-15">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 week ago
+  
+          </time>
+<!-- -->
+</div>
+</div>
+<!-- -->
+</div>
+</li>
+
+2025-07-29 20:03:43,226 - INFO - Teste executado com sucesso!
