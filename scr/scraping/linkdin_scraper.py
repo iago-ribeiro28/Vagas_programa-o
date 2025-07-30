@@ -7,6 +7,8 @@ f_WT=2
 significar que é uma vaga remota
 
 Start é a página, então essa é a pagina 0.
+
+https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/4216342080?_l=pt_BR
 """
 import logging
 import pandas as pd
@@ -14,6 +16,8 @@ from bs4 import BeautifulSoup
 import requests
 import os
 from datetime import datetime
+
+
 
 
 class Scraping():
@@ -25,6 +29,27 @@ class Scraping():
 
         self._setup_logging()
         
+        self.definindo_parametros()
+    
+    def definindo_parametros(self):
+        """
+        Aqui vai ser definido o que será coletado em cada uma das colunas
+        Foi colocado dois dicionários, um que vai receber algumas informações gerais das vagas
+        Outro que ira receber o Id para identificar de que vaga pertence e o Requisito que está sendo pedido pela vaga        
+        """
+        
+        self.vagas = {
+            'id': [],
+            'modelo':[],
+            'titulo':[],
+            'tempo': [],
+            'inscritos': []
+        }
+        self.requisitos = {
+            'id': [],
+            'requisito': []
+        }
+    
     def _setup_logging(self):
         # configura a mensagem que vai ser passadas nos logs
         data = datetime.now().strftime("%d-%m-%Y")
@@ -48,7 +73,11 @@ class Scraping():
     
     
     def buscando_vagas(self):
-        self.url = f'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=""&location=Brasil&f_WT=2&geoId=106057199&position=1&start=0'
+        
+        while True:
+            self.url = f'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?geoId=106057199&keywords={pesquisa}&f_WT={modelo}&position=1&start=0'
+            
+        
         self.response = requests.get(self.url, headers= self.headers)
         self.page_html = self.response.text
         self.soup = BeautifulSoup(self.page_html, features='html.parser')
