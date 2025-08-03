@@ -24,7 +24,6 @@ class Scraping():
     def __init__(self):
         # Dando inicio na classe que vai ser responsável por fazer o Scraping do linkedin
         # Chama a função _setup_logging que vai ser usado para deixar registrado os scraps feitos
-        self.response = requests.session()
         self.headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0'}
 
         self._setup_logging()
@@ -73,22 +72,33 @@ class Scraping():
     
     
     def buscando_vagas(self):
-        
+        paginas = 0
         while True:
-            self.url = f'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?geoId=106057199&keywords={pesquisa}&f_WT={modelo}&position=1&start=0'
+            url = f'https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?geoId=106057199&keywords="Analista%20de%20dados"&f_WT=1&position=3&start={paginas}'
+            response = requests.get(url, headers= self.headers)
+            page_html = response.text
+            soup = BeautifulSoup(page_html, features='html.parser')
+            divs = soup.find_all('div', class_='base-card')
+            travou = soup.find_all('script', type='text/javascript')
             
-        
-        self.response = requests.get(self.url, headers= self.headers)
-        self.page_html = self.response.text
-        self.soup = BeautifulSoup(self.page_html, features='html.parser')
-        self.logger.info(self.soup)
+            if len(divs) == 0 and len(travou) == 0:
+                break
+            
+            elif len(travou) == 0:
+                for card in divs:
+                    entity_urn = card.get('data-entity-urn')
+                    if entity_urn:  # Verificar se existe o atributo
+                        id = entity_urn.split(':')[-1]
+                        vagas['id'].append(id)
+                paginas = paginas + 1
         
     def teste(self):
         self.logger.info('Teste executado com sucesso!')
         
         
         
-teste = Scraping()
-teste.buscando_vagas()
-teste.teste()
+if __name__ == "__main__":
+    teste = Scraping()
+    teste.buscando_vagas()
+    teste.teste()
 
